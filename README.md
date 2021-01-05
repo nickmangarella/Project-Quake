@@ -8,15 +8,15 @@ Project Team:
 - Nick Mangarella
 - Sushama Kunnath
 
-In this project we explored earthquake data that was sourced from the United States Geological Survey (USGS) .  According to Wikipedia, "the USGS studies the landscape of the US, its natural resources, and the natural hazards that threaten it"[^1]. 
+In this project we explored earthquake data that was sourced from the United States Geological Survey (USGS) .  According to Wikipedia, "the USGS studies the landscape of the US, its natural resources, and the natural hazards that threaten it". 
 
 Some questions we developed at the outset and were hoping that the data might be able to tell us were:
 
 - Has the frequency of earthquakes increased over time?
-- Has the severity (magnitude[^2]) of earthquakes increased over time?
-- Has the intensity (MMI[^3]) of earthquakes increased over time?
+- Has the severity (magnitude) of earthquakes increased over time?
+- Has the intensity (MMI) of earthquakes increased over time?
 - Is there a correlation between depth and magnitude?
-- Is there a correlation between significance[^4] and magnitude?
+- Is there a correlation between significance and magnitude?
 
 To try and ensure we covered as much ground as possible, we pulled annual data going back to 1980 using one of the USGS' APIs.   
 
@@ -57,12 +57,3 @@ Ultimately, while the data at face value appear to support the hypothesis that e
 
 
 
-
-
-[^1]: See link for quote https://en.wikipedia.org/wiki/United_States_Geological_Survey
-
-[^2]: Magnitude is defined here  https://www.usgs.gov/natural-hazards/earthquake-hazards/science/earthquake-magnitude-energy-release-and-shaking-intensity?qt-science_center_objects=0#qt-science_center_objects
-
-[^3]: MMI is defined here https://www.usgs.gov/natural-hazards/earthquake-hazards/science/earthquake-magnitude-energy-release-and-shaking-intensity?qt-science_center_objects=0#qt-science_center_objects
-
-[^4]: Significance is defined here https://earthquake.usgs.gov/earthquakes/browse/significant.php
