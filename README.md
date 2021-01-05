@@ -1,4 +1,4 @@
-![image-20210105095033375](C:\Users\jcg\AppData\Roaming\Typora\typora-user-images\image-20210105095033375.png)
+![Quake Slide](images/QuakeSlide.png)
 
 Project Team:
 
