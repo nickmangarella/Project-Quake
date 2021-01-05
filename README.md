@@ -1,4 +1,4 @@
-
+![image-20210105095033375](C:\Users\jcg\AppData\Roaming\Typora\typora-user-images\image-20210105095033375.png)
 
 Project Team:
 
@@ -63,8 +63,3 @@ Ultimately, while the data at face value appear to support the hypothesis that e
 [^2]: Magnitude is defined here  https://www.usgs.gov/natural-hazards/earthquake-hazards/science/earthquake-magnitude-energy-release-and-shaking-intensity?qt-science_center_objects=0#qt-science_center_objects
 [^3]: MMI is defined here https://www.usgs.gov/natural-hazards/earthquake-hazards/science/earthquake-magnitude-energy-release-and-shaking-intensity?qt-science_center_objects=0#qt-science_center_objects
 [^4]: Significance is defined here https://earthquake.usgs.gov/earthquakes/browse/significant.php
-
-
-
-
-
