@@ -1,4 +1,4 @@
-![Quake Slide]https://github.com/nickmangarella/Project-Quake/tree/quake/images/Quake Slide.png
+![Quake Slide](https://github.com/nickmangarella/Project-Quake/tree/quake/images/QuakeSlide.png)
 
 Project Team:
 
