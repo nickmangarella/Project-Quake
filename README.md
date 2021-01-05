@@ -1,4 +1,4 @@
-![](C:\Users\lynel\AppData\Roaming\Typora\typora-user-images\image-20210105154059790.png)
+![](D:\lynel\Documents\GitHub Repositories\Project-Quake\images\QuakeSlide.png)
 
 #### Project Team:
 
