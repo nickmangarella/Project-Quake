@@ -13,7 +13,6 @@
 
 In this project we explored earthquake data that was sourced from the United States Geological Survey (USGS) .  According to Wikipedia, "the USGS studies the landscape of the US, its natural resources, and the natural hazards that threaten it"
 
-In this project we explored earthquake data that was sourced from the United States Geological Survey (USGS) .  According to Wikipedia, "the USGS studies the landscape of the US, its natural resources, and the natural hazards that threaten it". 
 #### Some questions we developed at the outset and were hoping that the data might be able to tell us were:
 
 - Has the frequency of earthquakes increased over time?
