@@ -8,17 +8,19 @@
 - Nick Mangarella
 - Sushama Kunnath
 
+<<<<<<< HEAD
 #### Project Introduction:
 
-In this project we explored earthquake data that was sourced from the United States Geological Survey (USGS) .  According to Wikipedia, "the USGS studies the landscape of the US, its natural resources, and the natural hazards that threaten it".[^1] 
+In this project we explored earthquake data that was sourced from the United States Geological Survey (USGS) .  According to Wikipedia, "the USGS studies the landscape of the US, its natural resources, and the natural hazards that threaten it"
 
-Some questions we developed at the outset and were hoping that the data might be able to tell us were:
+In this project we explored earthquake data that was sourced from the United States Geological Survey (USGS) .  According to Wikipedia, "the USGS studies the landscape of the US, its natural resources, and the natural hazards that threaten it". 
+#### Some questions we developed at the outset and were hoping that the data might be able to tell us were:
 
 - Has the frequency of earthquakes increased over time?
-- Has the severity (magnitude[^2]) of earthquakes increased over time?
-- Has the intensity (MMI[^3]) of earthquakes increased over time?
+- Has the severity (magnitude) of earthquakes increased over time?
+- Has the intensity (MMI) of earthquakes increased over time?
 - Is there a correlation between depth and magnitude?
-- Is there a correlation between significance[^4] and magnitude?
+- Is there a correlation between significance and magnitude?
 
 To try and ensure we covered as much ground as possible, we pulled annual data going back to 1980 using one of the USGS' APIs.   
 
@@ -47,7 +49,7 @@ In terms of geography we focused initially on earthquakes across the entire glob
 - Map of US Earthquakes Over Time
 - US Earthquake Magnitudes - 1980 to 2020
 
-We were able to observe the following:
+#### We were able to observe the following:
 
 There is a large correlation between magnitude and significance.  
 
@@ -56,8 +58,6 @@ There is very little correlation between magnitude and depth.
 Most of the larger earthquakes appear to take place in Western US / Eastern Asia.  
 
 Ultimately, while the data at face value appear to support the hypothesis that earthquakes are increasing over time, there is a technological growth component here that is beyond the scope of our research and which may partly or wholly invalidate that notion, i.e. the data do not control for advancements in seismic technology which may wind up accounting for most or all of the apparent increase in frequency of earthquakes over time. 
-
-
 
 #### References:
 
