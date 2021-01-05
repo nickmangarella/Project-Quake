@@ -1,4 +1,4 @@
-![](D:\lynel\Documents\GitHub Repositories\Project-Quake\images\QuakeSlide.png)
+![Quake Slide](images/QuakeSlide.png)
 
 #### Project Team:
 
