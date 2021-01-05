@@ -59,7 +59,10 @@ Ultimately, while the data at face value appear to support the hypothesis that e
 
 
 
-[^1]: https://en.wikipedia.org/wiki/United_States_Geological_Survey
+[^1]: See link for quote https://en.wikipedia.org/wiki/United_States_Geological_Survey
+
 [^2]: Magnitude is defined here  https://www.usgs.gov/natural-hazards/earthquake-hazards/science/earthquake-magnitude-energy-release-and-shaking-intensity?qt-science_center_objects=0#qt-science_center_objects
+
 [^3]: MMI is defined here https://www.usgs.gov/natural-hazards/earthquake-hazards/science/earthquake-magnitude-energy-release-and-shaking-intensity?qt-science_center_objects=0#qt-science_center_objects
+
 [^4]: Significance is defined here https://earthquake.usgs.gov/earthquakes/browse/significant.php
