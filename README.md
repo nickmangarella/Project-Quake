@@ -1,12 +1,14 @@
-![Quake Slide](images/QuakeSlide.png)
+![](C:\Users\lynel\AppData\Roaming\Typora\typora-user-images\image-20210105154059790.png)
 
-Project Team:
+#### Project Team:
 
 - Jordan Gilmartin
 - Lynell Robinson
 - Min Xie
 - Nick Mangarella
 - Sushama Kunnath
+
+#### Project Introduction:
 
 In this project we explored earthquake data that was sourced from the United States Geological Survey (USGS) .  According to Wikipedia, "the USGS studies the landscape of the US, its natural resources, and the natural hazards that threaten it".[^1] 
 
@@ -24,7 +26,7 @@ The resulting dataset was very large and there was also some info missing in pri
 
 In terms of geography we focused initially on earthquakes across the entire globe and then further on in the project we narrowed our concentration to the US experience.  
 
-Summary of the APIs / Tools that we used for this project:
+#### Summary of the APIs / Tools that we used for this project:
 
 - USGS API
 - Google Maps API
@@ -33,7 +35,7 @@ Summary of the APIs / Tools that we used for this project:
 - Pandas
 - Matplotlib
 
-Some of the highlights of our charts / analysis:
+#### Some of the highlights of our charts / analysis:
 
 - Quantity of Earthquakes Over Time - 1980 to 2020
 - Magnitude by Decade
@@ -57,9 +59,12 @@ Ultimately, while the data at face value appear to support the hypothesis that e
 
 
 
+#### References:
 
+USGS Wiki: https://en.wikipedia.org/wiki/United_States_Geological_Survey
 
-[^1]: https://en.wikipedia.org/wiki/United_States_Geological_Survey
-[^2]: Magnitude is defined here  https://www.usgs.gov/natural-hazards/earthquake-hazards/science/earthquake-magnitude-energy-release-and-shaking-intensity?qt-science_center_objects=0#qt-science_center_objects
-[^3]: MMI is defined here https://www.usgs.gov/natural-hazards/earthquake-hazards/science/earthquake-magnitude-energy-release-and-shaking-intensity?qt-science_center_objects=0#qt-science_center_objects
-[^4]: Significance is defined here https://earthquake.usgs.gov/earthquakes/browse/significant.php
+Magnitude is defined here:  https://www.usgs.gov/natural-hazards/earthquake-hazards/science/earthquake-magnitude-energy-release-and-shaking-intensity?qt-science_center_objects=0#qt-science_center_objects
+
+MMI is defined here: https://www.usgs.gov/natural-hazards/earthquake-hazards/science/earthquake-magnitude-energy-release-and-shaking-intensity?qt-science_center_objects=0#qt-science_center_objects
+
+Significance is defined here: https://earthquake.usgs.gov/earthquakes/browse/significant.php
